@@ -1,0 +1,7 @@
+More study links
+https://www.baeldung.com/spring-boot-h2-database
+https://www.javaguides.net/2019/08/spring-boot-crud-rest-api-spring-data-jpa-h2-database-example.html
+
+https://www.youtube.com/watch?v=pc4lfKm8NLY
+
+https://stackoverflow.com/questions/32875524/how-do-you-connect-to-h2-as-a-remote-database-instead-of-embedded-mode-using-spr
