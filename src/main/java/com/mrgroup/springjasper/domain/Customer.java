@@ -1,11 +1,12 @@
 package com.mrgroup.springjasper.domain;
 
-import lombok.Data;
-
+import lombok.Getter;
+import lombok.Setter;
 import javax.persistence.*;
 import java.util.Date;
 
-@Data
+@Setter
+@Getter
 @Entity
 public class Customer {
 
@@ -16,9 +17,11 @@ public class Customer {
     String customerCode;
     String customerName;
     String customerShortName;
-    String customerBIN;
-    String customerNID;
 
+    @Column(name = "CUSTOMER_BIN")
+    String customerBIN;
+    @Column(name = "CUSTOMER_NID")
+    String customerNID;
     String contactNumber;
     String address;
 
