@@ -4,12 +4,12 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping({"/home", ""})
-public class HomeController {
+@RequestMapping("/renderRpt")
+public class displayReportController {
 
-    @RequestMapping("")
-    public String homePage(){
-        return "home";
+    @RequestMapping("/show")
+    public String displayReport(){
+        return "showReport";
     }
 
 }
