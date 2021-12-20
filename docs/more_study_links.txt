@@ -5,3 +5,9 @@ https://www.javaguides.net/2019/08/spring-boot-crud-rest-api-spring-data-jpa-h2-
 https://www.youtube.com/watch?v=pc4lfKm8NLY
 
 https://stackoverflow.com/questions/32875524/how-do-you-connect-to-h2-as-a-remote-database-instead-of-embedded-mode-using-spr
+
+
+
+---------------------- Others
+https://www.websparrow.org/spring/spring-boot-jasper-report-mysql-database-example
+https://juliuskrah.com/blog/2018/04/21/jasperreports-html-emails-with-spring/
